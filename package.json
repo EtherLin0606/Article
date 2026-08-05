@@ -25,7 +25,7 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^0.0.3",
-    "hexo-theme-reimu": "^1.12.5",
+    "hexo-theme-reimu": "^1.12.6",
     "probe-image-size": "^7.3.0"
   }
 }
